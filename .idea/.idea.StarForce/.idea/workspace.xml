@@ -5,139 +5,104 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72899b08-bba8-4254-a806-1429b43bceb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AssetBundle/BuildReport/0_1_0_1/BuildLog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/BuildReport/0_1_0_1/BuildReport.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/BuildReport/0_1_0_2/BuildLog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/BuildReport/0_1_0_2/BuildReport.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/Configs.dc98ae20.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/DataTables.0e629098.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/Entities.23bb53ed.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/Fonts.1ed1ae14.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/GameFrameworkVersion.3a32ca0e.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/Localization/Dictionaries.en-us.46e5b708.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/Localization/Dictionaries.ko-kr.b2a42b6f.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/Localization/Dictionaries.zh-cn.9e2e0d62.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/Localization/Dictionaries.zh-tw.42131e36.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/Materials.77afc839.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/Meshes.a6aa5834.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/Music/About.c60d1b31.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/Music/Background.74eef8f4.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/Music/Menu.43809cd8.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/Scenes.2f873710.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/Sounds.3adff942.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/Textures.b421c017.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/UI/UIForms.98021f66.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/UI/UISounds.ef2f49a8.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/UI/UISprites/Common.571e2944.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/UI/UISprites/Icons.21de7014.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_1/Windows/UI/UISprites/Logos.94f208a4.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/Configs.dc98ae20.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/DataTables.0e629098.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/Entities.23bb53ed.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/Fonts.1ed1ae14.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/GameFrameworkVersion.ab4257c0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/Localization/Dictionaries.en-us.46e5b708.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/Localization/Dictionaries.ko-kr.b2a42b6f.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/Localization/Dictionaries.zh-cn.9e2e0d62.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/Localization/Dictionaries.zh-tw.42131e36.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/Materials.77afc839.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/Meshes.a6aa5834.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/Music/About.c60d1b31.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/Music/Background.74eef8f4.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/Music/Menu.43809cd8.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/Scenes.2f873710.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/Sounds.3adff942.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/Textures.b421c017.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/UI/UIForms.98021f66.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/UI/UISounds.ef2f49a8.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/UI/UISprites/Common.571e2944.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/UI/UISprites/Icons.21de7014.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Full/0_1_0_2/Windows/UI/UISprites/Logos.94f208a4.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Package/0_1_0_1/Windows/GameData.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Package/0_1_0_1/Windows/GameFrameworkVersion.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Package/0_1_0_1/Windows/Resources.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Package/0_1_0_1/Windows/UI.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Package/0_1_0_2/Windows/GameData.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Package/0_1_0_2/Windows/GameFrameworkVersion.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Package/0_1_0_2/Windows/Resources.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Package/0_1_0_2/Windows/UI.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Packed/0_1_0_1/Windows/GameData.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Packed/0_1_0_1/Windows/GameFrameworkList.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Packed/0_1_0_1/Windows/Resources.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Packed/0_1_0_1/Windows/UI.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Packed/0_1_0_2/Windows/GameData.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Packed/0_1_0_2/Windows/GameFrameworkList.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Packed/0_1_0_2/Windows/Resources.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Packed/0_1_0_2/Windows/UI.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/Windows" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/Windows.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/configs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/configs.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/datatables" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/datatables.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/entities" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/entities.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/fonts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/fonts.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/localization/dictionaries.en-us" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/localization/dictionaries.en-us.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/localization/dictionaries.ko-kr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/localization/dictionaries.ko-kr.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/localization/dictionaries.zh-cn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/localization/dictionaries.zh-cn.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/localization/dictionaries.zh-tw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/localization/dictionaries.zh-tw.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/materials" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/materials.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/meshes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/meshes.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/music/about" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/music/about.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/music/background" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/music/background.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/music/menu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/music/menu.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/scenes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/scenes.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/sounds" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/sounds.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/textures" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/textures.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/ui/uiforms" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/ui/uiforms.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/ui/uisounds" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/ui/uisounds.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/ui/uisprites/common" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/ui/uisprites/common.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/ui/uisprites/icons" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/ui/uisprites/icons.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/ui/uisprites/logos" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssetBundle/Working/Windows/ui/uisprites/logos.manifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/Configs/ResourceBuilder.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/Configs/ResourceBuilder.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/background.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/background.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/box.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/box.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/button-filled.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/button-filled.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/button-outline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/button-outline.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/checked.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/checked.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/circle-filled.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/circle-filled.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/circle-outline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/circle-outline.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/circle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/circle.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/dialog-background.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/dialog-background.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/dialog-title-background.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/dialog-title-background.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/info.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/info.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/line.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/line.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/progress-conner.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/progress-conner.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/progressbar-background.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/progressbar-background.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/progressbar.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/progressbar.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/round-button-filled.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/round-button-filled.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/round-button-outline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Common/round-button-outline.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Icons/music.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Icons/music.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Icons/sound.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Icons/sound.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Icons/world.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Icons/world.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Logos/unity-logo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameMain/UI/UISprites/Logos/unity-logo.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarForce Launcher.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarForce Launcher.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityAdsSettings.asset" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Editor.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Reflection.Editor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Reflection.Editor.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Reflection.Editor.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.Editor.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/Sirenix.Utilities.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/link.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Assemblies/link.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Custom Attribute Processors.unitypackage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Custom Drawers.unitypackage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Editor Windows.unitypackage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Sample - RPG Editor.unitypackage.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Bootstrap License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Bootstrap License.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/ConfigData.bytes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/ConfigData.bytes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/OdinPathLookup.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/OdinPathLookup.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/SdfIconAtlas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/SdfIconAtlas.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/GeneralDrawerConfig.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/GeneralDrawerConfig.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/InspectorConfig.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/InspectorConfig.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/OdinModuleConfig.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Config/Editor/OdinModuleConfig.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Addressables.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Addressables.data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Entities.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Entities.data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Localization.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Localization.data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Mathematics.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Odin Inspector/Modules/Unity.Mathematics.data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Readme.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserSettings/Search.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GameFramework" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GameFramework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Search.settings" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Search.settings" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,10 +115,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2dcfE9vAA3PCkSlsJmBeT8msyQO" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -163,31 +128,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\Administrator\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Administrator\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\Administrator\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Administrator\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Administrator\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Administrator\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.17f1c1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\Administrator\Desktop\Project\StarForce -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Users\Administrator\Desktop\Project\StarForce" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -195,7 +160,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
-      <option name="EXE_PATH" value="C:\Program Files\Unity\Editor\Unity.exe" />
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.17f1c1\Editor\Unity.exe" />
       <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\Administrator\Desktop\Project\StarForce -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
       <option name="WORKING_DIRECTORY" value="C:\Users\Administrator\Desktop\Project\StarForce" />
       <option name="PASS_PARENT_ENVS" value="1" />
@@ -232,6 +197,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710312173562</updated>
       <workItem from="1710312174012" duration="4814000" />
+      <workItem from="1710321311298" duration="461000" />
     </task>
     <servers />
   </component>
